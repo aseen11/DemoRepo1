@@ -5,5 +5,7 @@ public class searchpage {
 	{
 		System.out.println("search");
 	}
-
+public void search1()
+{
+	system.out.println("Example to pull");
 }
